@@ -1,8 +1,6 @@
 Guia Detalhado: Como Criar o Teu Perfil e Portefólio no GitHub
 --------------------------------------------------------------
 
-Segue um passo a passo detalhado para criares o teu perfil e portefólio no GitHub, ideal para partilhares com colegas ou utilizares como referência futura. Incluo anotações para onde deves tirar prints do processo, facilitando a criação de um guia visual.
-
 **1\. Criação da Conta GitHub**
 -------------------------------
 
