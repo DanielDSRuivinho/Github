@@ -72,7 +72,7 @@ Estrutura Sugerida do README:
     
 8.  **Projetos**Lista os projetos em formato bullet point, cada um com hiperligação para o respetivo repositório.
     
-> Exemplos para utilização
+> Podes encontrar [exemplos](https://www.readme-templates.com/) para utilização ou utilizar um [Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/).
 
 **4\. Personalização do README**
 --------------------------------
